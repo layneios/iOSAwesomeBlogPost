@@ -40,3 +40,7 @@ An iOS awesome blog post backup, convenience to search.
 * [OCS——史上最疯狂的iOS动态化方案](https://github.com/lengmolehongyan/iOSAwesomeBlogPost/blob/master/iOS_Hotfix/OCS%E2%80%94%E2%80%94%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%96%AF%E7%8B%82%E7%9A%84iOS%E5%8A%A8%E6%80%81%E5%8C%96%E6%96%B9%E6%A1%88.md)
 * [滴滴 iOS 动态化方案 DynamicCocoa 的诞生与起航](https://github.com/lengmolehongyan/iOSAwesomeBlogPost/blob/master/iOS_Hotfix/%E6%BB%B4%E6%BB%B4%20iOS%20%E5%8A%A8%E6%80%81%E5%8C%96%E6%96%B9%E6%A1%88%20DynamicCocoa%20%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E8%B5%B7%E8%88%AA.md)
 
+## CocoaPods
+
+* [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
+
