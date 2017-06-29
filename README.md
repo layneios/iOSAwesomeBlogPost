@@ -44,3 +44,7 @@ An iOS awesome blog post backup, convenience to search.
 
 * [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
 
+## Xcode_Compile_Optimization
+
+* [如何将 iOS 项目的编译速度提高5倍](https://zhuanlan.zhihu.com/p/27584726)
+
